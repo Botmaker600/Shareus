@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """🤖 Bot Name: {}
 
-👨‍💻 Developer: <a href=https://t.me/Belikeberlin>Berlin</a>
+👨‍💻 Developer: <a href=https://t.me/Thala_Mob>Thala</a>
 
 📚 Framework: pyrogram
 
