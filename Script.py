@@ -24,13 +24,13 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- MSFILTERXBOT was private repo. 
+- THALAFILTERXBOT was private repo. 
 
-- Source - https://t.me/+AaJO1Ej6T441YjQ1
+- Source - https://t.me/ThalaMob_Discussion
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/ms_alone1>MS</a>"""
+- <a href=https://t.me/Thala_Mob>THALA</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
