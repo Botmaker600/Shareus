@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """🤖 Bot Name: {}
 
-👨‍💻 Developer: <a href=https://t.me/Thala_Mob>Thala</a>
+👨‍💻 Developer: <a href=https://t.me/Belikeberlin>Berlin</a>"""
 
 📚 Framework: pyrogram
 
@@ -20,7 +20,7 @@ class script(object):
 
 📡 Hosted On: Heroku
 
-👥 Support Group: <a href=https://t.me/ThalaMob_Discussion>Supportgroup</a>"""
+👥 Support Group: <a href=https://t.me/Srilinks4kSupport>Supportgroup</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
