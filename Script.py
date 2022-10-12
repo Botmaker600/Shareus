@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """🤖 Bot Name: {}
 
-👨‍💻 Developer: <a href=https://t.me/Belikeberlin>Berlin</a>"""
+👨‍💻 Developer: <a href=https://t.me/Belikeberlin>Berlin</a>
 
 📚 Framework: pyrogram
 
@@ -26,11 +26,11 @@ class script(object):
 
 - THALAFILTERXBOT was private repo. 
 
-- Source - https://t.me/ThalaMob_Discussion
+- Source - https://t.me/Srilinks4k
 
 <b>DEVS:</b>
 
-- <a href=https://t.me/Thala_Mob>THALA</a>"""
+- <a href=https://t.me/Belikeberlin>Berlin</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
